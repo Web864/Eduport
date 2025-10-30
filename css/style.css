@@ -1,0 +1,39 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+.darkpink{
+    color: palevioletred;
+}
+.pink{
+    background-color: rgb(244, 227, 230);
+}
+.skyblue{
+    background-color: skyblue;
+}
+.blue{
+    color: rgb(4, 35, 236);
+}
+.lightyellow{
+    background-color: #fef6e0;
+}
+.yellow{
+    color:#f7c32e;
+}
+.purple{
+    color: purple;
+}
+.lightpurple{
+    background-color: rgb(252, 236, 252);
+}
+.green{
+    color: green;
+    background-color: rgb(211, 253, 211);
+    border-radius: 5px;
+
+}
+
+.black{
+    color: black;
+}
